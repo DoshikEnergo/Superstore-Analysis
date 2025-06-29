@@ -32,11 +32,11 @@ Real-time response using a pre-trained machine learning model
 ## 🛠️ Technologies Used
 Python
 
-Streamlit – web interface
+-Streamlit – web interface
 
-XGBoost – regression model
+-XGBoost – regression model
 
-Pandas – data handling
+-Pandas – data handling
 
-Joblib – loading the trained model
+-Joblib – loading the trained model
 
