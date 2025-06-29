@@ -8,7 +8,7 @@ Built with Streamlit and powered by a trained XGBoost regression model.
 
 ![image](https://github.com/user-attachments/assets/61c1176b-3736-411a-a929-4c1604c53528)
 
-🚀 Features
+## 🚀 Features
 Interactive web interface (no coding required!)
 
 Predicts profit based on:
@@ -29,7 +29,7 @@ Visual feedback: success, warning, or risk of loss
 
 Real-time response using a pre-trained machine learning model
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 Python
 
 Streamlit – web interface
