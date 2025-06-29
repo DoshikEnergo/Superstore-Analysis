@@ -40,9 +40,3 @@ Python
 
 - Joblib – loading the trained model
 
-## ⚙️ How to Run
-1. Clone or download the project
-git clone https://github.com/yourusername/superstore-profit-predictor.git
-cd superstore-profit-predictor
-2. Install dependencies
-pip install -r requirements.txt
